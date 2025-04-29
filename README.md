@@ -6,7 +6,7 @@ Tumblr Feed API (posts pop up in your feed based off a an API, you can create yo
 Flashcard App(you can create the flashcards however you want, the flash cards have a back and front )
 
 WIREFRAME
-
+figma wireframe link : https://www.figma.com/design/qdcNXkb400AgNfsXcGC1Im/Untitled?node-id=6-121&t=U98KbmZ1Tm8xze2F-1
 
 https://github.com/user-attachments/assets/db3f348c-6bc8-48c2-ae48-3da8ee15cff4
 
