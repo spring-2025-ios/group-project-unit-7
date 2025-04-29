@@ -1,30 +1,45 @@
 1. User Stories (Required and Optional)
 Required Must-have Stories
 
-[fill in your required user stories here]
-…
+login
+log out information
+sign up 
+
+
+
+
+
 Optional Nice-to-have Stories
+to  be able to add images or posts into a folder 
+being able to comment on the posts 
+being able to add friends on the app
+
 
 [fill in your required user stories here]
 …
 2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
+Login Screen
+user can log in 
 …
-[list second screen here]
-[list associated required story here]
+Registration Screen 
+if user doesn't have an account, user can can create an account
 …
+Signout Screen
+User can sign out
+
 3. Navigation
 Tab Navigation (Tab to Screen)
 
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
+Home Feed
+view posts
+Post a Photo
+
 Flow Navigation (Screen to Screen)
 
-[list first screen here]
-[list screen navigation here]
-…
-[list second screen here]
-[list screen navigation here]
+Login Screen
+=> Home
+Registration Screen
+=> Home
+Sign up screen
+=> Home
 …
