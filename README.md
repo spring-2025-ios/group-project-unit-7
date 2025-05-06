@@ -1,3 +1,14 @@
+Description
+The app is recipe app using an API to help you find new recipes as well as save your recipes.
+
+App Evaluation
+in this app you are able to log in, register, sign out, continuous scroll, save and unsave recipes
+
+Category: food & entertainment
+Mobile: yes
+Story: Not sure what to make fr your family for dinner tonight? Well download our app and you will have multiple options!  May you never have another gross meal again!
+Market: chefs, families, friends, anyone who is hungry
+Habit: daily use!
 
 3 apps I enjoy
 
